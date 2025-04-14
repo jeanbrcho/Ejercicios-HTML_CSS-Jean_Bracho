@@ -1,0 +1,18 @@
+.compartida {
+    color: mediumslateblue;
+}
+.texto {
+    font-size: 10px;
+    color: crimson;
+}
+p.texto,
+p.compartida {
+    font-size: 10px;
+}
+p.compartida {
+    font-weight: bold;
+}
+.borde {
+    border: 5px solid blue;
+    border-radius: 15px;
+}

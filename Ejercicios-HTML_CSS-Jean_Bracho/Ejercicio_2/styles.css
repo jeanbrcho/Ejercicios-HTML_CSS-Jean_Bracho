@@ -1,0 +1,20 @@
+#fondo {
+    background-color: rgba(100, 100, 255, 0.3);
+    width: 300px;
+    height: 200px;
+    border: 3px solid black;
+
+    border: 5px dashed red;
+}
+.medida-absoluta {
+    width: 400px;
+    font-size: 20px;
+
+    border: 2px solid green;
+}
+.medida-relativa {
+    width: 50%;
+    font-size: 1.5em; 
+
+    border: 3px dotted blue;
+}
